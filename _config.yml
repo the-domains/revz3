@@ -1,7 +1,7 @@
 name: RevZ3
 favicon: null
-layout_spectrum: 0.9646628603804857
-typography_spectrum: 0.9702420004177839
+layout_spectrum: 0.24123
+typography_spectrum: 0.49733
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.5141337134409696
-  lightness: 0.024319335585460067
+  brandStrength: 0.1875
+  lightness: 0.1875
   saturation: 0.401195460697636
-  rhythmicContrast: 0.35569281061179936
+  rhythmicContrast: 0.75
 purpose: []
