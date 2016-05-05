@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[RevZ3]]></title>
         <description><![CDATA[RevZ3]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/revz3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 13:37:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 13:37:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/revz3/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Impressie 3]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12735d72-99ee-46d9-8e90-4ee9927cfba8.jpg">]]></description>
+            <link>https://thegrid.ai/revz3/impressie-3/index.html</link>
+            <guid isPermaLink="false">a9e6fe04-e0ae-4554-9ec8-d9f861a8896c</guid>
+            <pubDate>Thu, 05 May 2016 13:37:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Impressie 4]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ac520d7-3790-488b-bc6e-5149a6861b10.jpg">]]></description>
-            <link>undefinedimpressie-4/index.html</link>
+            <link>https://thegrid.ai/revz3/impressie-4/index.html</link>
             <guid isPermaLink="false">e0cdc53d-c09b-43c8-b603-d040fe324629</guid>
             <pubDate>Thu, 05 May 2016 13:37:23 GMT</pubDate>
         </item>
