@@ -1,19 +1,4 @@
-name: RevZ3
-favicon: null
-layout_spectrum: 0.75214
 typography_spectrum: 0
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#adc6dd'
@@ -25,4 +10,20 @@ color:
   lightness: 1
   saturation: 0.75
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75214
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: RevZ3
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: Overtuig(en)d in Vastgoed
 purpose: []
